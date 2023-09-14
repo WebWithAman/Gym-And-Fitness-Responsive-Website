@@ -159,7 +159,7 @@ p {
 header {
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(-219deg, rgba(0, 0, 0, 0.788) 12%, rgba(255, 0, 0, 0.82) 37%, rgba(0, 0, 0, 0.13)70%), url("../Assets/Images/hero-1.jpg");
+    background-image: linear-gradient(-219deg, rgba(0, 0, 0, 0.788) 12%, rgba(255, 0, 0, 0.82) 37%, rgba(0, 0, 0, 0.13)70%), url("../assets/images/hero-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -272,7 +272,7 @@ nav {
 .training-box {
     flex: 1;
     min-height: 35rem;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.434)), url("../Assets/Images/hero-card-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.434)), url("../assets/images/hero-card-1.jpg");
     background-size: cover;
     background-position: center;
     padding-inline: 10%;
@@ -280,7 +280,7 @@ nav {
 }
 
 .training-box:last-child {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.306), rgba(0, 0, 0, 0.584)), url("../Assets/Images/hero-card-2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.306), rgba(0, 0, 0, 0.584)), url("../assets/images/hero-card-2.jpg");
 }
 
 .training-box h2,
@@ -546,7 +546,7 @@ nav {
 **********************************************************/
 .footer-banner {
     height: 60rem;
-    background-image: linear-gradient(-219deg, rgba(0, 0, 0, 0.788) 17%, rgba(255, 0, 0, 0.82) 74%, rgba(0, 0, 0, 0.13)75%), url("../Assets/Images/footer-banner.jpg");
+    background-image: linear-gradient(-219deg, rgba(0, 0, 0, 0.788) 17%, rgba(255, 0, 0, 0.82) 74%, rgba(0, 0, 0, 0.13)75%), url("../assets/images/footer-banner.jpg");
     background-size: cover;
     background-position: top;
     margin-top: 5rem;
